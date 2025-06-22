@@ -1,4 +1,4 @@
-# -shecodesPLUSwk3
+# shecodesPLUSwk3
 
 SheCodes Plus — Week 3 ⚡️📚
 Week 3 was all about JavaScript fundamentals — revisiting key concepts and diving into some super important data types and structures that make coding easier and more powerful. I built a strong foundation by mastering strings, numbers, arrays, loops, and objects, which are the building blocks for any interactive web app! 🚀
